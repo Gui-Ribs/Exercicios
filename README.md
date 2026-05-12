@@ -9,6 +9,8 @@ Base Inimiga: `base.java`
 
 ## Compilacao e execucao
 
+Apenas execute os comandos abaixo:
+
 ```sh
 javac triangulo.java suprimentos.java base.java
 java triangulo
